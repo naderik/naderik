@@ -31,7 +31,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </p>
 
-### 📫 How to reach me:
+### 📫 My Socials
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/naderik">
