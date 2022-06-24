@@ -2,10 +2,12 @@
 
 ### 👨🏻‍💻 I'm Kasra and I'm a full-stack developer !
 
-![](https://komarev.com/ghpvc/?naderik&color=135C5A)
+![](https://komarev.com/ghpvc/?naderik)
 
 <!--
 **naderik/naderik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+&color=135C5A)
 
 Here are some ideas to get you started:
 
