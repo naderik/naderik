@@ -1,14 +1,24 @@
 ## Hi there 👋
 
-## 👨🏻‍💻 I'm Kasra and I'm a Full Stack Developer !
+## 👨🏻‍💻 I'm Kasra and I'm a Full Stack Developer
 
+<div align="center" id="badges">
+  <a href="https://www.linkedin.com/naderik">
+    <img src="https://img.shields.io/badge/LinkedIn-135C5A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="http:/naderik.info">
+    <img src="https://img.shields.io/badge/E Portfolio-135C5A?style=for-the-badge&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.twitter.com/naderik_kaz">
+    <img src="https://img.shields.io/badge/Twitter-135C5A?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=naderik&color=135C5A" alt=""/>
 </div>
 
-
-### 🛠️ Languages and Tools I use:
+### 🛠️ Languages and Tools I use
 
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -36,7 +46,6 @@
 
 <!--
 **naderik/naderik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 Here are some ideas to get you started:
 
