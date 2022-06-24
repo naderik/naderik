@@ -18,6 +18,10 @@
   <img src="https://komarev.com/ghpvc/?username=naderik&color=135C5A" alt=""/>
 </div>
 
+<div align="center">
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naderik&theme=dark)](https://git.io/streak-stats)
+</div>
+
 ### 🛠️ Languages and Tools I use
 
 <p align="center">
