@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-# 👨🏻‍💻 I'm Kasra and I'm a full-stack developer !
+### 👨🏻‍💻 I'm Kasra and I'm a full-stack developer !
 
 ![](https://komarev.com/ghpvc/?naderik&color=135C5A)
 
