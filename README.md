@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 👨🏻‍💻 I'm Kasra and I'm a full-stack developer !
+### 👨🏻‍💻 I'm Kasra and I'm a Full Stack Developer !
 
 
 <div align="center">
