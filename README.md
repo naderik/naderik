@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey there 👋
 
 ## 👨🏻‍💻 I'm Kasra and I'm a Full Stack Developer
 
