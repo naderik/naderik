@@ -6,9 +6,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naderik&theme=dark&hide_border=true&background=0F343E&ring=DDE9B0&dates=166A68&stroke=DDE9B0&currStreakNum=C5DA8D&currStreakLabel=C5DA8D&sideLabels=C5DA8D&sideNums=C5DA8D&fire=EBD86D)](https://git.io/streak-stats)
 
-### 🏆  Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naderik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ### 🛠️  Languages and Tools
 
 <p align="center">
@@ -33,6 +30,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </p>
+
+### 🏆  Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naderik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫  Socials
 
