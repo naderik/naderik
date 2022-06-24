@@ -2,23 +2,7 @@
 
 ## 👨🏻‍💻 I'm Kasra and I'm a Full Stack Developer
 
-<div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/naderik">
-    <img src="https://img.shields.io/badge/LinkedIn-135C5A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    <a href="http:/naderik.info">
-    <img src="https://img.shields.io/badge/E Portfolio-135C5A?style=for-the-badge&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.twitter.com/naderik_kaz">
-    <img src="https://img.shields.io/badge/Twitter-135C5A?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=naderik&color=135C5A" alt=""/>
-</div>
-
-### 🔭 My GitHub Stats:
+### 🔭 My GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naderik&theme=dark&hide_border=true&background=0F343E&ring=DDE9B0&dates=166A68&stroke=DDE9B0&currStreakNum=C5DA8D&currStreakLabel=C5DA8D&sideLabels=C5DA8D&sideNums=C5DA8D&fire=EBD86D)](https://git.io/streak-stats)
 
@@ -45,8 +29,23 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL"  alt="GraphQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-
 </p>
+
+<div align="center" id="badges">
+  <a href="https://www.linkedin.com/in/naderik">
+    <img src="https://img.shields.io/badge/LinkedIn-135C5A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="http:/naderik.info">
+    <img src="https://img.shields.io/badge/E Portfolio-135C5A?style=for-the-badge&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.twitter.com/naderik_kaz">
+    <img src="https://img.shields.io/badge/Twitter-135C5A?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=naderik&color=135C5A" alt=""/>
+</div>
 
 <!--
 **naderik/naderik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
