@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 I'm Kasra and I'm a Full Stack Developer
 
 <div align="center" id="badges">
-  <a href="https://www.linkedin.com/naderik">
+  <a href="https://www.linkedin.com/in/naderik">
     <img src="https://img.shields.io/badge/LinkedIn-135C5A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href="http:/naderik.info">
