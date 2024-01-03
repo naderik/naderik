@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/naderik">
     <img src="https://img.shields.io/badge/LinkedIn-135C5A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="http:/naderik.info">
+    <a href="https://www.kasracodes.dev">
     <img src="https://img.shields.io/badge/E Portfolio-135C5A?style=for-the-badge&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.twitter.com/naderik_kaz">
